@@ -1,0 +1,36 @@
+body{
+    
+   
+    color:black;
+    background: url(obob.jpg);
+    font-weight: bold;
+    background-position: center;
+   
+    
+}
+.text{
+    position: absolute;
+    right: 20px;
+    width: 40%;
+    top: 10%;
+}
+.video{
+    display: inline-block; 
+    width: 50%;
+   
+}
+.p{
+    font-size: x-large;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: large;
+   text-decoration: underline;
+   
+}
+.p1{
+    font-size: xx-large;
+    margin: 10px;
+    padding: 20px;
+    text-decoration-line: underline;
+    
+
+}

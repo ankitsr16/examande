@@ -1,0 +1,18 @@
+body{
+    background-image: url(d4b92b2b-7491-4d13-a486-54aaf5ad6e67.jpeg);
+    background-position: center;
+    background-size: 120%;
+    background-repeat: no-repeat;
+    font-size: 120%;
+}
+h1 {
+    align-items: center;
+    padding-left: 520px;
+    font-family: cursive;
+    color: aliceblue;
+}
+p{
+    margin-bottom: 700px;
+    color: aliceblue;
+    font-size: 110%;
+}
